@@ -1,0 +1,41 @@
+.room-on{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+.room-off {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+.text-on{
+    color: black;
+}
+.text-off {
+    color: white;
+}
+.button-on {
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100px;
+    height: 40px;
+}
+.button-off {
+    margin-top: 10px;
+    background-color: White;
+    color: black;
+    padding: 10px;
+    width: 100px;
+    height: 40px;
+}
+html, body, #root, .App{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
